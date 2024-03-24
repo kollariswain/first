@@ -1,2 +1,2 @@
 # first
-my first cpp project
+how to c+
